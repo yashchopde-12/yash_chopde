@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yash_chopde
+👋 Hi, I’m Yash Chopde
 - 👀 I’m interested in Machine Learning and playing with Data
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ... yashchopde7@gmail.com
