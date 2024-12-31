@@ -1,6 +1,5 @@
 <h1 align="center">Hi 👋, I'm Yash Chopde</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-
 <img align="right" alt="coding" width="400" src"![image](https://github.com/user-attachments/assets/a31b8f55-fb08-4ecf-aa8f-2c0912c20f6d)
 ">
 
