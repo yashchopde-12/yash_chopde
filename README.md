@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Yash Chopde</h1>
 <h3 align="center">A passionate Data Analyst from India</h3>
-<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif>
+<img align="right" alt="coding" width="400" src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Designer.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=yashchopde-12&label=Profile%20views&color=0e75b6&style=flat" alt="yashchopde-12" /> </p>
 
 - 🔭 I’m currently working at **Cognizant**
