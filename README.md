@@ -1,9 +1,26 @@
-👋 Hi, I’m Yash Chopde
-- 👀 I’m interested in Machine Learning and playing with Data
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ... yashchopde7@gmail.com
+<h1 align="center">Hi 👋, I'm Yash Chopde</h1>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
-<!---
-yashchopde-12/yashchopde-12 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<img align="right" alt="coding" width="400" src"https://camo.githubusercontent.com/130ffc354b6ee3c8c9e506276e598bf4e19ea7950df203dacf6aeee4fc543a50/68747470733a2f2f616e616c7974696373696e6469616d61672e636f6d2f77702d636f6e74656e742f75706c6f6164732f323031382f31322f646576656c6f7065722d6472696262626c652e676966">
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=yashchopde-12&label=Profile%20views&color=0e75b6&style=flat" alt="yashchopde-12" /> </p>
+
+- 🔭 I’m currently working at **Cognizant**
+
+- 🌱 I’m currently learning **Data Analysis, dashboard designing, Deep Learning**
+
+- 💬 Ask me about **Power BI, Excel, SQL, Data, Python**
+
+- 📫 How to reach me **yashchopde7@gmail.com**
+
+<h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://linkedin.com/in/yash chopde" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="yash chopde" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://pandas.pydata.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/2ae2a900d2f041da66e950e4d48052658d850630/icons/pandas/pandas-original.svg" alt="pandas" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=yashchopde-12&show_icons=true&locale=en" alt="yashchopde-12" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=yashchopde-12&" alt="yashchopde-12" /></p>
